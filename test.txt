@@ -1,0 +1,2 @@
+
+# Bevezető file python desktop app fejlesztés 2. hétvége.
